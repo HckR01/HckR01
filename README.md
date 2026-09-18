@@ -103,6 +103,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HckR01&theme=tokyo-night&hide_border=true" alt="Contribution activity graph for HckR01" />
 </p>
 
+
 > Note: Stats widgets are external enhancements and may occasionally be temporarily unavailable.
 
 ---
