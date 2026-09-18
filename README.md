@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm HckR01 👋</h1>
+<h1 align="center">Hi, I'm Saroj 👋</h1>
 
 <p align="center">
-  <strong>Full-Stack Developer • MERN Stack • Problem Solver</strong>
+  <strong>Full-Stack Developer •Cloud Administrator • MERN Stack • Problem Solver</strong>
 </p>
 
 <p align="center">
