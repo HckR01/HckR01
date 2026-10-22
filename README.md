@@ -86,6 +86,15 @@
 | [WealthWatch](https://github.com/HckR01/WealthWatch) | Finance dashboard user interface |
 | [TextExtract From Image](https://github.com/HckR01/TextExtract-From-Img) | Local image text extraction tool |
 
+### 🆕 Recent Projects (Last 2 Months)
+
+| Project | Description |
+|---|---|
+| [YatriVahan](https://github.com/HckR01/YatriVahan) | Carpool web project |
+| [ReelPilot-AI](https://github.com/HckR01/ReelPilot-AI) | AI project for automating social media reels |
+| [IndoorMap](https://github.com/HckR01/IndoorMap) | Indoor floor map project |
+| [chitchat](https://github.com/HckR01/chitchat) | Private chat application |
+
 ---
 
 ## 📊 GitHub Activity & Stats
