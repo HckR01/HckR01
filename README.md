@@ -3,11 +3,11 @@
 <h3 align="center">Full-Stack Developer • Azure Cloud Administrator • MERN Stack Developer • Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&pause=1000&center=true&vCenter=true&width=900&lines=Building+scalable+web+applications;Deploying+reliable+solutions+on+Microsoft+Azure;Continuously+learning+cloud%2C+DevOps%2C+and+system+design" alt="Animated introduction showing Saroj's full-stack, Azure cloud, and continuous learning focus" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&pause=1000&center=true&vCenter=true&width=900&lines=Building+scalable+web+applications;Deploying+reliable+solutions+on+Microsoft+Azure;Creating+useful+products+with+the+MERN+stack" alt="Typing animation describing Saroj's development focus" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0ea5e9,100:2563eb&section=header&text=HckR01%20•%20Saroj&fontColor=ffffff&fontSize=30&animation=fadeIn" alt="Blue waving banner with HckR01 and Saroj" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0ea5e9,100:2563eb&section=header&text=HckR01%20•%20Saroj&fontColor=ffffff&fontSize=30&animation=fadeIn" alt="Blue profile header banner" />
 </p>
 
 <p align="center">
@@ -28,6 +28,19 @@
 - ⚛️ MERN stack developer building user-focused products with React, Node.js, Express, and MongoDB
 - 🧠 Problem solver who enjoys turning ideas into reliable solutions
 - 🌱 Currently learning deeper cloud security, DevOps, and system design practices
+
+---
+
+## ⭐ Recent Projects
+
+> Projects created or actively developed during the last two months, shown first.
+
+| Project | Description | Live Demo |
+|---|---|---|
+| [YatriVahan](https://github.com/HckR01/YatriVahan) | Carpooling platform for connecting riders and drivers | [Open app](https://yatri-vahan.vercel.app) |
+| [ReelPilot AI](https://github.com/HckR01/ReelPilot-AI) | AI-powered tool to automate social-media reels | — |
+| [IndoorMap](https://github.com/HckR01/IndoorMap) | Interactive indoor floor-map application | — |
+| [ChitChat](https://github.com/HckR01/chitchat) | Private real-time chat application | [Open app](https://chitchat-amber-one.vercel.app) |
 
 ---
 
@@ -67,15 +80,7 @@
 
 ---
 
-## 📚 Current Focus
-
-- Deepening Azure cloud administration and cloud security fundamentals
-- Improving CI/CD and deployment workflows with DevOps practices
-- Strengthening system design and backend scalability skills
-
----
-
-## 🌟 Featured Projects
+## 🌟 Other Featured Projects
 
 | Project | Description |
 |---|---|
@@ -85,6 +90,14 @@
 | [EchoBeats](https://github.com/HckR01/EchoBeats) | Mood-based music player experience |
 | [WealthWatch](https://github.com/HckR01/WealthWatch) | Finance dashboard user interface |
 | [TextExtract From Image](https://github.com/HckR01/TextExtract-From-Img) | Local image text extraction tool |
+
+---
+
+## 📚 Current Focus
+
+- Deepening Azure cloud administration and cloud security fundamentals
+- Improving CI/CD and deployment workflows with DevOps practices
+- Strengthening system design and backend scalability skills
 
 ---
 
@@ -102,7 +115,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HckR01&theme=tokyo-night&hide_border=true" alt="Contribution activity graph for HckR01" />
 </p>
-
 
 > Note: Stats widgets are external enhancements and may occasionally be temporarily unavailable.
 
